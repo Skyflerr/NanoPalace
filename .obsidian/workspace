@@ -4,15 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "32d607c99be2889c",
+        "id": "d3ea7ae71e3b74a4",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Biologia Celular/Maturação do RNA.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -40,7 +36,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#DNALinker",
+                "query": "menbra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +49,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 330
   },
   "right": {
     "id": "afce2ffa22c4dcf5",
@@ -69,35 +65,54 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Biologia Celular/Maturação do RNA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
+          },
+          {
+            "id": "eaaae42c499321f4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d82a5e0a5268b5ea",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
     "width": 300,
     "collapsed": true
   },
-  "active": "32d607c99be2889c",
+  "active": "d3ea7ae71e3b74a4",
   "lastOpenFiles": [
+    "Biologia Celular/Compartimentalização.md",
+    "Biologia Celular/Membranas Biologicas.md",
+    "Biologia Celular/Membranas Biologicas 2.md",
+    "Biologia Celular/PDF's/Aula 10. Membranas Biológicas pt2 [23.05.22].pdf",
     "Biologia Celular/Maturação do RNA.md",
-    "Assets/Alternative Splicing.png",
-    "Biologia Celular/Compactação do DNA.md",
-    "Biologia Celular/Biossintese Do RNA.md",
-    "Biologia Celular/PDF's/Aula 05. Transcrição [2022].pdf",
-    "Biologia Celular/Biossintese do DNA - Erros de replicação.md",
-    "Biologia Celular/Biossintese do DNA - Replicação.md",
-    "Biologia Celular/Efeito de Posição.md",
-    "Biologia Celular/Herança Genetica.md",
-    "Biologia Celular/Estrutura e Organização do DNA.md"
+    "[Membranas Biologicas.md",
+    "Biologia Celular/Estrutura e Organização do DNA.md",
+    "Biologia Celular/PDF's/Aula 09. Membranas Biológicas pt1 [20.05.22].pdf",
+    "Biologia Celular/DNA.md",
+    "Biologia Celular/Efeito de Posição.md"
   ]
 }

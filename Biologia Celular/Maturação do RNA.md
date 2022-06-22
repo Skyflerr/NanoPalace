@@ -6,7 +6,7 @@ References : [Anotações, [Khan Academi](https://pt.khanacademy.org/science/ap-
 Diversos fatores e modificações são necessarios para que o gene eucarioto saia do nucleo para se tornar proteina, geralmente os fatores essenciais são **Splicing + Modificações** (Dentre elas, CAP's e Poli-A 3')
 
 ## Pontos Principais
--   Logo que um transcrito de RNA é produzido em uma célula eucarionte, ele é considerado um **pré-RNAm** e deve ser processado para formar **RNA mensageiro** (**RNAm**).
+-   Logo que um transcrito de RNA é produzido em uma célula eucarionte, ele é considerado um **pré-RNAm** e deve ser processado para formar **RNA mensageiro** ( #RNAm).
 -   Um **cap 5'** é adicionado ao começo do transcrito de RNA, e uma **cauda poli-A** é adicionada ao final.
 -   No **splicing**, algumas seções do transcrito de RNA (**íntrons**) são removidas, e as seções restantes (**éxons**) são acopladas novamente.
 -   Alguns genes podem sofrer **splicing alternativo**, levando à produção de diferentes moléculas maduras de RNAm a partir do mesmo transcrito inicial.
@@ -31,10 +31,10 @@ Ambas extremidades finais do pre-RNAm são modificadas pela adição de grupos q
 
 A **cap 5'** é adicionada ao primeiro nucleotídeo do transcrito durante a transcrição. A cap é uma guanina (G) modificada e protege o transcrito de ser quebrado. Ela também auxilia o ribossomo a se ligar ao RNAm e começar a leitura para fazer uma proteína. [[Cap 5'.png]]
 
-Como a cauda poli-A é adicionada? O final 3' do RNA se forma de um jeito um pouco bizarro. Quando uma sequência chamada **sinal de poliadenilação** aparece em uma molécula de RNA durante a transcrição, uma enzima corta o RNA em dois naquele ponto. Outra enzima adiciona aproximadamente 100 - 200 nucleotídeos de adenina (A) para cotar o final, formando uma **cauda poli-A**. A cauda torna o transcrito mais estável e ajuda a exportá-lo do núcleo para o citosol.
+Como a cauda poli-A é adicionada? O final 3' do RNA se forma de um jeito um pouco bizarro. Quando uma sequência chamada **sinal de poliadenilação** aparece em uma molécula de RNA durante a transcrição, uma enzima corta o RNA em dois naquele ponto. Outra enzima adiciona aproximadamente 100 - 200 #Nucleotídeos ucleotídeos de adenina (A) para cotar o final, formando uma **cauda poli-A**. A cauda torna o transcrito mais estável e ajuda a exportá-lo do núcleo para o citosol.
 
 ## Splicing do RNA 
-O terceiro grande evento do processamento de RNA que ocorre nas suas células é o **splicing do RNA**. No splicing do RNA, partes específicas do pré-RNAm, chamadas **íntrons** são reconhecidas e removidas por complexos proteína-e-RNA chamados de **spliceossomos**. Os íntrons podem ser vistos como sequências "lixo" que devem ser retiradas para que a "versão de partes boas" da molécula de RNA possa ser montada
+O terceiro grande evento do processamento de RNA que ocorre nas suas células é o **splicing do RNA**. No #Splicing do RNA, partes específicas do pré-RNAm, chamadas **íntrons** são reconhecidas e removidas por complexos proteína-e-RNA chamados de **spliceossomos**. Os íntrons podem ser vistos como sequências "lixo" que devem ser retiradas para que a "versão de partes boas" da molécula de RNA possa ser montada
 
 Um ponto-chave aqui é que são _somente_ os éxons de um gene que codificam uma proteína. Não só os íntrons não carregam informações para construir uma proteína, como eles realmente _têm_ que ser removidos para que o mRNA codifique uma proteína com a sequência certa. Se o spliceossomo falha ao remover um íntron, um mRNA com "lixo" extra será feito, e uma proteína errada vai ser produzida durante a tradução.
 

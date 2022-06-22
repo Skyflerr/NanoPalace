@@ -70,7 +70,7 @@ body .modal {
   --text-title-h6:              #ff3cd5;
   
   --font-weight-title: 600;
-  --font-monospace: Consolas;
+ //forme --font-monospace: "Consolas","Fira Code","Source Code Pro","Droid Sans Mono","Monoid","Arial",sans-serif;
   --line-height-headers: 1;
 }
 
@@ -293,12 +293,12 @@ code[class*="language-"] {
 .markdown-preview-view pre {
     padding: 12px 12px;
 }
-
+/*
 .theme-dark :not(pre) > code[class*="language-"], .theme-dark pre[class*="language-"] {
     margin-top: -0.5em;
     margin-bottom: -0.5em;
 }
-
+*/
 
 
 
@@ -406,4 +406,8 @@ div[data-path='0attachments'] + div.nav-folder-children
     display: none;
 }
 
+ul {
+    margin-block-start: -0.8em;
+    margin-block-end: 0em;
+}
 

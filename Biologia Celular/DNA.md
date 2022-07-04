@@ -4,7 +4,7 @@ References : [Wikipedia]
 
 
 ==Composto organico cujas Moléculas contem as instruções geneticas que coordenam o desenvolvimento e funcionamento de todos os seres vivos e alguns virus==, e que transmitem as caracteristicas hereditarias de cada ser vivo. **A sua principal função é armazenar as informações para construção das proteinas de RNA's. os segmentos de DNA que contem informações geneticas são denominados genes**. O restante da sequencia de DNA tem importancia estrutural ou esta envolvido na regulação do uso da informação genetica.
-												              [[DNA .gif]]
+												              ![[DNA .gif]]
 															  
 Do ponto de vista quimico o *DNA é um longo polimetro de unidades simples (monometros) de #Nucleotideos*, cuja ==cadeia principal é formado por ###Moléculass de açucar e fosfato intercalados unidos por ligações fosfodiester. Ligada a Moléculas de açucar está uma de quatro *bases nitrogenadas* mantidas juntas por forças hidrofobicas.== A sequencia de bases ao longo da ###Moléculass de DNA constitui a *informação genetica*. A leitura destas sequencias é feita por intermedio do codigo genetico, que especifica a sequencia linear dos aminoacidos das Proteinas. ==A tradução é feita pelo *RNA mensageiro* que copia parte da cadeia de DNA por um processo chamado transcrição e posteriormente a informação contida neste é traduzida em proteinas pela tradução.==
 

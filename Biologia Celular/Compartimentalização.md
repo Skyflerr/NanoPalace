@@ -28,8 +28,8 @@ Envelope nuclear confina o DNA e é composto por 2 menbranas que são elas a **M
 
 - Proteinas com dominio pouco estruturado, presentes no interior do poro, dificultam a passagem de grandes moleculas 
 - A importação de proteinas no nucleo requer energia e a ligação dos receptores de importação acontece mesmo sem proteina
-- A ligação de uma molecula GTP no receptor com carga faz com que a proteina carregada seja solta . Se não houver proteina, o processo ocorre da mesma forma como um "onibus vazio"
-- Essa importação pode ser controlada por meio da fosforilação das proteinas. Apenas proteinas enoveladas passam pelo CDP
+- A ligação de uma molecula #GTP no receptor com carga faz com que a proteina carregada seja solta . Se não houver proteina, o processo ocorre da mesma forma como um "onibus vazio"
+- Essa importação pode ser controlada por meio da fosforilação das proteinas. Apenas proteinas enoveladas passam pelo #CDP
 
 ### A Lamina nuclear
 É a malha do lado nucelar da menbrana interna do nucleo, formada por uma menbrana chamada #Lamina, que constitui o #Citoesqueleto (filamentos intermediarios). E auxilia na sustentação do nucleo, promovem estabilidade e forma, se ancorando no complexo do poro e em proteinas da menbrana do envelope nuclear 

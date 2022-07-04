@@ -38,5 +38,5 @@ A polimerase ligada à região promotora inicia o processo de transcrição, adi
 Após a produção de aproximadamente nove nucleotídeos, a polimerase do RNA passa a se deslocar pela molécula de DNA, desenrolando sua hélice e produzindo uma molécula de RNA, cada vez mais alongada. O DNA já transcrito volta a ser enrolado, quase que imediatamente, recompondo a sua dupla-hélice. Esse processo é chamado de fase de elongação. *A fita de RNA produzida é simples e livre. Cerca de 40 nucleotídeos podem ser produzidos por segundo, a uma temperatura de 37ºC em bactérias.*
 
 Quando a polimerase do RNA encontra a seqüência de terminalização, o RNA para de ser transcrito. A partir desse momento, nenhuma outra base nitrogenada é incorporada ao RNA. Neste momento, a bolha de transcrição se desprende, liberando uma molécula de RNA e imediatamente a molécula de DNA se enrola completamente. A seqüência de DNA que contém os genes sinalizadores do término é chamada de região terminalizadora. 
-[[Transcrição do RNA.gif]]
+![[Transcrição do RNA.gif]]
 

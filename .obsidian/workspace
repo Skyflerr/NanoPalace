@@ -7,8 +7,12 @@
         "id": "d3ea7ae71e3b74a4",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Biologia Celular/Trafego Intracelular.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -36,10 +40,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "menbra",
-                "matchingCase": false,
+                "query": "tag:#Visicula",
+                "matchingCase": true,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Biologia Celular/Trafego Intracelular.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +109,15 @@
   },
   "active": "d3ea7ae71e3b74a4",
   "lastOpenFiles": [
-    "Biologia Celular/Compartimentalização.md",
+    "Biologia Celular/Trafego Intracelular.md",
     "Biologia Celular/Membranas Biologicas.md",
-    "Biologia Celular/Membranas Biologicas 2.md",
-    "Biologia Celular/PDF's/Aula 10. Membranas Biológicas pt2 [23.05.22].pdf",
-    "Biologia Celular/Maturação do RNA.md",
-    "[Membranas Biologicas.md",
-    "Biologia Celular/Estrutura e Organização do DNA.md",
-    "Biologia Celular/PDF's/Aula 09. Membranas Biológicas pt1 [20.05.22].pdf",
+    "Biologia Celular/Compartimentalização.md",
+    "Biologia Celular/Tradução do RNA (in progress).md",
     "Biologia Celular/DNA.md",
-    "Biologia Celular/Efeito de Posição.md"
+    "Biologia Celular/Biossintese Do RNA - Transcrição.md",
+    "Assets/Transcrição do RNA.gif",
+    "Biologia Celular/Membranas Biologicas 2.md",
+    "Biologia Celular/Maturação do RNA.md",
+    "Biologia Celular/Compactação do DNA.md"
   ]
 }
